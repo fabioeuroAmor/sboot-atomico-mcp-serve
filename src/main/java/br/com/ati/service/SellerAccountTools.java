@@ -10,6 +10,7 @@ import java.util.List;
 
 @Service
 public  class  SellerAccountTools {
+    //teste
     private  final SellerAccountRepository sellerAccountRepository;
 
     public  SellerAccountTools (SellerAccountRepository sellerAccountRepository) {
